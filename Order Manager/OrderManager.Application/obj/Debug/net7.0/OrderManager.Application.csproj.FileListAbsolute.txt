@@ -1,0 +1,51 @@
+D:\backend\OrderManager\OrderManager.Application\obj\Debug\net7.0\OrderManager.Application.csproj.AssemblyReference.cache
+D:\backend\OrderManager\OrderManager.Application\obj\Debug\net7.0\OrderManager.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\backend\OrderManager\OrderManager.Application\obj\Debug\net7.0\OrderManager.Application.AssemblyInfoInputs.cache
+D:\backend\OrderManager\OrderManager.Application\obj\Debug\net7.0\OrderManager.Application.AssemblyInfo.cs
+D:\backend\OrderManager\OrderManager.Application\obj\Debug\net7.0\OrderManager.Application.csproj.CoreCompileInputs.cache
+D:\backend\OrderManager\OrderManager.Application\bin\Debug\net7.0\OrderManager.Application.deps.json
+D:\backend\OrderManager\OrderManager.Application\bin\Debug\net7.0\OrderManager.Application.dll
+D:\backend\OrderManager\OrderManager.Application\bin\Debug\net7.0\OrderManager.Application.pdb
+D:\backend\OrderManager\OrderManager.Application\bin\Debug\net7.0\OrderManager.Domain.dll
+D:\backend\OrderManager\OrderManager.Application\bin\Debug\net7.0\OrderManager.Domain.pdb
+D:\backend\OrderManager\OrderManager.Application\obj\Debug\net7.0\OrderManager.Application.csproj.CopyComplete
+D:\backend\OrderManager\OrderManager.Application\obj\Debug\net7.0\OrderManager.Application.dll
+D:\backend\OrderManager\OrderManager.Application\obj\Debug\net7.0\refint\OrderManager.Application.dll
+D:\backend\OrderManager\OrderManager.Application\obj\Debug\net7.0\OrderManager.Application.pdb
+D:\backend\OrderManager\OrderManager.Application\obj\Debug\net7.0\ref\OrderManager.Application.dll
+D:\backend\OrderManager\OrderManager.Application\bin\Debug\net7.0\OrderManager.Application.runtimeconfig.json
+D:\backend\OrderManager\OrderManager.Application\obj\Debug\net7.0\OrderManager.Application.genruntimeconfig.cache
+D:\Order manager\backend\OrderManager\OrderManager.Application\bin\Debug\net7.0\OrderManager.Application.deps.json
+D:\Order manager\backend\OrderManager\OrderManager.Application\bin\Debug\net7.0\OrderManager.Application.runtimeconfig.json
+D:\Order manager\backend\OrderManager\OrderManager.Application\bin\Debug\net7.0\OrderManager.Application.dll
+D:\Order manager\backend\OrderManager\OrderManager.Application\bin\Debug\net7.0\OrderManager.Application.pdb
+D:\Order manager\backend\OrderManager\OrderManager.Application\bin\Debug\net7.0\OrderManager.Domain.dll
+D:\Order manager\backend\OrderManager\OrderManager.Application\bin\Debug\net7.0\OrderManager.Domain.pdb
+D:\Order manager\backend\OrderManager\OrderManager.Application\obj\Debug\net7.0\OrderManager.Application.csproj.AssemblyReference.cache
+D:\Order manager\backend\OrderManager\OrderManager.Application\obj\Debug\net7.0\OrderManager.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Order manager\backend\OrderManager\OrderManager.Application\obj\Debug\net7.0\OrderManager.Application.AssemblyInfoInputs.cache
+D:\Order manager\backend\OrderManager\OrderManager.Application\obj\Debug\net7.0\OrderManager.Application.AssemblyInfo.cs
+D:\Order manager\backend\OrderManager\OrderManager.Application\obj\Debug\net7.0\OrderManager.Application.csproj.CoreCompileInputs.cache
+D:\Order manager\backend\OrderManager\OrderManager.Application\obj\Debug\net7.0\OrderManager.Application.csproj.CopyComplete
+D:\Order manager\backend\OrderManager\OrderManager.Application\obj\Debug\net7.0\OrderManager.Application.dll
+D:\Order manager\backend\OrderManager\OrderManager.Application\obj\Debug\net7.0\refint\OrderManager.Application.dll
+D:\Order manager\backend\OrderManager\OrderManager.Application\obj\Debug\net7.0\OrderManager.Application.pdb
+D:\Order manager\backend\OrderManager\OrderManager.Application\obj\Debug\net7.0\OrderManager.Application.genruntimeconfig.cache
+D:\Order manager\backend\OrderManager\OrderManager.Application\obj\Debug\net7.0\ref\OrderManager.Application.dll
+D:\Order manager\backend\backend\OrderManager.Application\bin\Debug\net7.0\OrderManager.Application.deps.json
+D:\Order manager\backend\backend\OrderManager.Application\bin\Debug\net7.0\OrderManager.Application.runtimeconfig.json
+D:\Order manager\backend\backend\OrderManager.Application\bin\Debug\net7.0\OrderManager.Application.dll
+D:\Order manager\backend\backend\OrderManager.Application\bin\Debug\net7.0\OrderManager.Application.pdb
+D:\Order manager\backend\backend\OrderManager.Application\bin\Debug\net7.0\OrderManager.Domain.dll
+D:\Order manager\backend\backend\OrderManager.Application\bin\Debug\net7.0\OrderManager.Domain.pdb
+D:\Order manager\backend\backend\OrderManager.Application\obj\Debug\net7.0\OrderManager.Application.csproj.AssemblyReference.cache
+D:\Order manager\backend\backend\OrderManager.Application\obj\Debug\net7.0\OrderManager.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Order manager\backend\backend\OrderManager.Application\obj\Debug\net7.0\OrderManager.Application.AssemblyInfoInputs.cache
+D:\Order manager\backend\backend\OrderManager.Application\obj\Debug\net7.0\OrderManager.Application.AssemblyInfo.cs
+D:\Order manager\backend\backend\OrderManager.Application\obj\Debug\net7.0\OrderManager.Application.csproj.CoreCompileInputs.cache
+D:\Order manager\backend\backend\OrderManager.Application\obj\Debug\net7.0\OrderManager.Application.csproj.CopyComplete
+D:\Order manager\backend\backend\OrderManager.Application\obj\Debug\net7.0\OrderManager.Application.dll
+D:\Order manager\backend\backend\OrderManager.Application\obj\Debug\net7.0\refint\OrderManager.Application.dll
+D:\Order manager\backend\backend\OrderManager.Application\obj\Debug\net7.0\OrderManager.Application.pdb
+D:\Order manager\backend\backend\OrderManager.Application\obj\Debug\net7.0\OrderManager.Application.genruntimeconfig.cache
+D:\Order manager\backend\backend\OrderManager.Application\obj\Debug\net7.0\ref\OrderManager.Application.dll

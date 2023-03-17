@@ -1,0 +1,57 @@
+D:\backend\OrderManager\OrderManager.Infrastructure\bin\Debug\net7.0\OrderManager.Infrastructure.deps.json
+D:\backend\OrderManager\OrderManager.Infrastructure\bin\Debug\net7.0\OrderManager.Infrastructure.runtimeconfig.json
+D:\backend\OrderManager\OrderManager.Infrastructure\bin\Debug\net7.0\OrderManager.Infrastructure.dll
+D:\backend\OrderManager\OrderManager.Infrastructure\bin\Debug\net7.0\OrderManager.Infrastructure.pdb
+D:\backend\OrderManager\OrderManager.Infrastructure\bin\Debug\net7.0\OrderManager.Application.dll
+D:\backend\OrderManager\OrderManager.Infrastructure\bin\Debug\net7.0\OrderManager.Domain.dll
+D:\backend\OrderManager\OrderManager.Infrastructure\bin\Debug\net7.0\OrderManager.Application.pdb
+D:\backend\OrderManager\OrderManager.Infrastructure\bin\Debug\net7.0\OrderManager.Domain.pdb
+D:\backend\OrderManager\OrderManager.Infrastructure\obj\Debug\net7.0\OrderManager.Infrastructure.csproj.AssemblyReference.cache
+D:\backend\OrderManager\OrderManager.Infrastructure\obj\Debug\net7.0\OrderManager.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\backend\OrderManager\OrderManager.Infrastructure\obj\Debug\net7.0\OrderManager.Infrastructure.AssemblyInfoInputs.cache
+D:\backend\OrderManager\OrderManager.Infrastructure\obj\Debug\net7.0\OrderManager.Infrastructure.AssemblyInfo.cs
+D:\backend\OrderManager\OrderManager.Infrastructure\obj\Debug\net7.0\OrderManager.Infrastructure.csproj.CoreCompileInputs.cache
+D:\backend\OrderManager\OrderManager.Infrastructure\obj\Debug\net7.0\OrderManager.Infrastructure.csproj.CopyComplete
+D:\backend\OrderManager\OrderManager.Infrastructure\obj\Debug\net7.0\OrderManager.Infrastructure.dll
+D:\backend\OrderManager\OrderManager.Infrastructure\obj\Debug\net7.0\refint\OrderManager.Infrastructure.dll
+D:\backend\OrderManager\OrderManager.Infrastructure\obj\Debug\net7.0\OrderManager.Infrastructure.pdb
+D:\backend\OrderManager\OrderManager.Infrastructure\obj\Debug\net7.0\OrderManager.Infrastructure.genruntimeconfig.cache
+D:\backend\OrderManager\OrderManager.Infrastructure\obj\Debug\net7.0\ref\OrderManager.Infrastructure.dll
+D:\Order manager\backend\OrderManager\OrderManager.Infrastructure\bin\Debug\net7.0\OrderManager.Infrastructure.deps.json
+D:\Order manager\backend\OrderManager\OrderManager.Infrastructure\bin\Debug\net7.0\OrderManager.Infrastructure.runtimeconfig.json
+D:\Order manager\backend\OrderManager\OrderManager.Infrastructure\bin\Debug\net7.0\OrderManager.Infrastructure.dll
+D:\Order manager\backend\OrderManager\OrderManager.Infrastructure\bin\Debug\net7.0\OrderManager.Infrastructure.pdb
+D:\Order manager\backend\OrderManager\OrderManager.Infrastructure\bin\Debug\net7.0\OrderManager.Application.dll
+D:\Order manager\backend\OrderManager\OrderManager.Infrastructure\bin\Debug\net7.0\OrderManager.Domain.dll
+D:\Order manager\backend\OrderManager\OrderManager.Infrastructure\bin\Debug\net7.0\OrderManager.Application.pdb
+D:\Order manager\backend\OrderManager\OrderManager.Infrastructure\bin\Debug\net7.0\OrderManager.Domain.pdb
+D:\Order manager\backend\OrderManager\OrderManager.Infrastructure\obj\Debug\net7.0\OrderManager.Infrastructure.csproj.AssemblyReference.cache
+D:\Order manager\backend\OrderManager\OrderManager.Infrastructure\obj\Debug\net7.0\OrderManager.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Order manager\backend\OrderManager\OrderManager.Infrastructure\obj\Debug\net7.0\OrderManager.Infrastructure.AssemblyInfoInputs.cache
+D:\Order manager\backend\OrderManager\OrderManager.Infrastructure\obj\Debug\net7.0\OrderManager.Infrastructure.AssemblyInfo.cs
+D:\Order manager\backend\OrderManager\OrderManager.Infrastructure\obj\Debug\net7.0\OrderManager.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Order manager\backend\OrderManager\OrderManager.Infrastructure\obj\Debug\net7.0\OrderManager.Infrastructure.csproj.CopyComplete
+D:\Order manager\backend\OrderManager\OrderManager.Infrastructure\obj\Debug\net7.0\OrderManager.Infrastructure.dll
+D:\Order manager\backend\OrderManager\OrderManager.Infrastructure\obj\Debug\net7.0\refint\OrderManager.Infrastructure.dll
+D:\Order manager\backend\OrderManager\OrderManager.Infrastructure\obj\Debug\net7.0\OrderManager.Infrastructure.pdb
+D:\Order manager\backend\OrderManager\OrderManager.Infrastructure\obj\Debug\net7.0\OrderManager.Infrastructure.genruntimeconfig.cache
+D:\Order manager\backend\OrderManager\OrderManager.Infrastructure\obj\Debug\net7.0\ref\OrderManager.Infrastructure.dll
+D:\Order manager\backend\backend\OrderManager.Infrastructure\bin\Debug\net7.0\OrderManager.Infrastructure.deps.json
+D:\Order manager\backend\backend\OrderManager.Infrastructure\bin\Debug\net7.0\OrderManager.Infrastructure.runtimeconfig.json
+D:\Order manager\backend\backend\OrderManager.Infrastructure\bin\Debug\net7.0\OrderManager.Infrastructure.dll
+D:\Order manager\backend\backend\OrderManager.Infrastructure\bin\Debug\net7.0\OrderManager.Infrastructure.pdb
+D:\Order manager\backend\backend\OrderManager.Infrastructure\bin\Debug\net7.0\OrderManager.Application.dll
+D:\Order manager\backend\backend\OrderManager.Infrastructure\bin\Debug\net7.0\OrderManager.Domain.dll
+D:\Order manager\backend\backend\OrderManager.Infrastructure\bin\Debug\net7.0\OrderManager.Application.pdb
+D:\Order manager\backend\backend\OrderManager.Infrastructure\bin\Debug\net7.0\OrderManager.Domain.pdb
+D:\Order manager\backend\backend\OrderManager.Infrastructure\obj\Debug\net7.0\OrderManager.Infrastructure.csproj.AssemblyReference.cache
+D:\Order manager\backend\backend\OrderManager.Infrastructure\obj\Debug\net7.0\OrderManager.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Order manager\backend\backend\OrderManager.Infrastructure\obj\Debug\net7.0\OrderManager.Infrastructure.AssemblyInfoInputs.cache
+D:\Order manager\backend\backend\OrderManager.Infrastructure\obj\Debug\net7.0\OrderManager.Infrastructure.AssemblyInfo.cs
+D:\Order manager\backend\backend\OrderManager.Infrastructure\obj\Debug\net7.0\OrderManager.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Order manager\backend\backend\OrderManager.Infrastructure\obj\Debug\net7.0\OrderManager.Infrastructure.csproj.CopyComplete
+D:\Order manager\backend\backend\OrderManager.Infrastructure\obj\Debug\net7.0\OrderManager.Infrastructure.dll
+D:\Order manager\backend\backend\OrderManager.Infrastructure\obj\Debug\net7.0\refint\OrderManager.Infrastructure.dll
+D:\Order manager\backend\backend\OrderManager.Infrastructure\obj\Debug\net7.0\OrderManager.Infrastructure.pdb
+D:\Order manager\backend\backend\OrderManager.Infrastructure\obj\Debug\net7.0\OrderManager.Infrastructure.genruntimeconfig.cache
+D:\Order manager\backend\backend\OrderManager.Infrastructure\obj\Debug\net7.0\ref\OrderManager.Infrastructure.dll

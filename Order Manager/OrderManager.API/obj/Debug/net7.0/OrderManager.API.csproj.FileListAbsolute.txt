@@ -1,0 +1,252 @@
+D:\backend\OrderManager\OrderManager.API\obj\Debug\net7.0\OrderManager.API.csproj.AssemblyReference.cache
+D:\backend\OrderManager\OrderManager.API\obj\Debug\net7.0\OrderManager.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\backend\OrderManager\OrderManager.API\obj\Debug\net7.0\OrderManager.API.AssemblyInfoInputs.cache
+D:\backend\OrderManager\OrderManager.API\obj\Debug\net7.0\OrderManager.API.AssemblyInfo.cs
+D:\backend\OrderManager\OrderManager.API\obj\Debug\net7.0\OrderManager.API.csproj.CoreCompileInputs.cache
+D:\backend\OrderManager\OrderManager.API\obj\Debug\net7.0\OrderManager.API.MvcApplicationPartsAssemblyInfo.cache
+D:\backend\OrderManager\OrderManager.API\bin\Debug\net7.0\appsettings.Development.json
+D:\backend\OrderManager\OrderManager.API\bin\Debug\net7.0\appsettings.json
+D:\backend\OrderManager\OrderManager.API\bin\Debug\net7.0\OrderManager.API.exe
+D:\backend\OrderManager\OrderManager.API\bin\Debug\net7.0\OrderManager.API.deps.json
+D:\backend\OrderManager\OrderManager.API\bin\Debug\net7.0\OrderManager.API.runtimeconfig.json
+D:\backend\OrderManager\OrderManager.API\bin\Debug\net7.0\OrderManager.API.dll
+D:\backend\OrderManager\OrderManager.API\bin\Debug\net7.0\OrderManager.API.pdb
+D:\backend\OrderManager\OrderManager.API\bin\Debug\net7.0\AutoMapper.dll
+D:\backend\OrderManager\OrderManager.API\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\backend\OrderManager\OrderManager.API\bin\Debug\net7.0\Azure.Core.dll
+D:\backend\OrderManager\OrderManager.API\bin\Debug\net7.0\Azure.Identity.dll
+D:\backend\OrderManager\OrderManager.API\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\backend\OrderManager\OrderManager.API\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\backend\OrderManager\OrderManager.API\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\backend\OrderManager\OrderManager.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\backend\OrderManager\OrderManager.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\backend\OrderManager\OrderManager.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\backend\OrderManager\OrderManager.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\backend\OrderManager\OrderManager.API\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\backend\OrderManager\OrderManager.API\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\backend\OrderManager\OrderManager.API\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\backend\OrderManager\OrderManager.API\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\backend\OrderManager\OrderManager.API\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\backend\OrderManager\OrderManager.API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\backend\OrderManager\OrderManager.API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\backend\OrderManager\OrderManager.API\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\backend\OrderManager\OrderManager.API\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\backend\OrderManager\OrderManager.API\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\backend\OrderManager\OrderManager.API\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\backend\OrderManager\OrderManager.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\backend\OrderManager\OrderManager.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\backend\OrderManager\OrderManager.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\backend\OrderManager\OrderManager.API\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\backend\OrderManager\OrderManager.API\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\backend\OrderManager\OrderManager.API\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\backend\OrderManager\OrderManager.API\bin\Debug\net7.0\System.Memory.Data.dll
+D:\backend\OrderManager\OrderManager.API\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\backend\OrderManager\OrderManager.API\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\backend\OrderManager\OrderManager.API\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\backend\OrderManager\OrderManager.API\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\backend\OrderManager\OrderManager.API\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\backend\OrderManager\OrderManager.API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\backend\OrderManager\OrderManager.API\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\backend\OrderManager\OrderManager.API\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\backend\OrderManager\OrderManager.API\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\backend\OrderManager\OrderManager.API\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\backend\OrderManager\OrderManager.API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\backend\OrderManager\OrderManager.API\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\backend\OrderManager\OrderManager.API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\backend\OrderManager\OrderManager.API\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\backend\OrderManager\OrderManager.API\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\backend\OrderManager\OrderManager.API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\backend\OrderManager\OrderManager.API\bin\Debug\net7.0\OrderManager.Application.dll
+D:\backend\OrderManager\OrderManager.API\bin\Debug\net7.0\OrderManager.Domain.dll
+D:\backend\OrderManager\OrderManager.API\bin\Debug\net7.0\OrderManager.Infrastructure.dll
+D:\backend\OrderManager\OrderManager.API\bin\Debug\net7.0\OrderManager.Infrastructure.pdb
+D:\backend\OrderManager\OrderManager.API\bin\Debug\net7.0\OrderManager.Application.pdb
+D:\backend\OrderManager\OrderManager.API\bin\Debug\net7.0\OrderManager.Domain.pdb
+D:\backend\OrderManager\OrderManager.API\obj\Debug\net7.0\staticwebassets\msbuild.OrderManager.API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\backend\OrderManager\OrderManager.API\obj\Debug\net7.0\staticwebassets\msbuild.build.OrderManager.API.props
+D:\backend\OrderManager\OrderManager.API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.OrderManager.API.props
+D:\backend\OrderManager\OrderManager.API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.OrderManager.API.props
+D:\backend\OrderManager\OrderManager.API\obj\Debug\net7.0\staticwebassets.pack.json
+D:\backend\OrderManager\OrderManager.API\obj\Debug\net7.0\staticwebassets.build.json
+D:\backend\OrderManager\OrderManager.API\obj\Debug\net7.0\staticwebassets.development.json
+D:\backend\OrderManager\OrderManager.API\obj\Debug\net7.0\scopedcss\bundle\OrderManager.API.styles.css
+D:\backend\OrderManager\OrderManager.API\obj\Debug\net7.0\OrderManager.API.csproj.CopyComplete
+D:\backend\OrderManager\OrderManager.API\obj\Debug\net7.0\OrderManager.API.dll
+D:\backend\OrderManager\OrderManager.API\obj\Debug\net7.0\refint\OrderManager.API.dll
+D:\backend\OrderManager\OrderManager.API\obj\Debug\net7.0\OrderManager.API.pdb
+D:\backend\OrderManager\OrderManager.API\obj\Debug\net7.0\OrderManager.API.genruntimeconfig.cache
+D:\backend\OrderManager\OrderManager.API\obj\Debug\net7.0\ref\OrderManager.API.dll
+D:\backend\OrderManager\OrderManager.API\bin\Debug\net7.0\Humanizer.dll
+D:\backend\OrderManager\OrderManager.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\backend\OrderManager\OrderManager.API\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\backend\OrderManager\OrderManager.API\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\backend\OrderManager\OrderManager.API\bin\Debug\net7.0\System.CodeDom.dll
+D:\backend\OrderManager\OrderManager.API\obj\Debug\net7.0\OrderManager.API.MvcApplicationPartsAssemblyInfo.cs
+D:\Order manager\backend\OrderManager\OrderManager.API\bin\Debug\net7.0\appsettings.Development.json
+D:\Order manager\backend\OrderManager\OrderManager.API\bin\Debug\net7.0\appsettings.json
+D:\Order manager\backend\OrderManager\OrderManager.API\bin\Debug\net7.0\OrderManager.API.exe
+D:\Order manager\backend\OrderManager\OrderManager.API\bin\Debug\net7.0\OrderManager.API.deps.json
+D:\Order manager\backend\OrderManager\OrderManager.API\bin\Debug\net7.0\OrderManager.API.runtimeconfig.json
+D:\Order manager\backend\OrderManager\OrderManager.API\bin\Debug\net7.0\OrderManager.API.dll
+D:\Order manager\backend\OrderManager\OrderManager.API\bin\Debug\net7.0\OrderManager.API.pdb
+D:\Order manager\backend\OrderManager\OrderManager.API\bin\Debug\net7.0\AutoMapper.dll
+D:\Order manager\backend\OrderManager\OrderManager.API\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Order manager\backend\OrderManager\OrderManager.API\bin\Debug\net7.0\Azure.Core.dll
+D:\Order manager\backend\OrderManager\OrderManager.API\bin\Debug\net7.0\Azure.Identity.dll
+D:\Order manager\backend\OrderManager\OrderManager.API\bin\Debug\net7.0\Humanizer.dll
+D:\Order manager\backend\OrderManager\OrderManager.API\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Order manager\backend\OrderManager\OrderManager.API\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Order manager\backend\OrderManager\OrderManager.API\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\Order manager\backend\OrderManager\OrderManager.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\Order manager\backend\OrderManager\OrderManager.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Order manager\backend\OrderManager\OrderManager.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Order manager\backend\OrderManager\OrderManager.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Order manager\backend\OrderManager\OrderManager.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Order manager\backend\OrderManager\OrderManager.API\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\Order manager\backend\OrderManager\OrderManager.API\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\Order manager\backend\OrderManager\OrderManager.API\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Order manager\backend\OrderManager\OrderManager.API\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Order manager\backend\OrderManager\OrderManager.API\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Order manager\backend\OrderManager\OrderManager.API\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\Order manager\backend\OrderManager\OrderManager.API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\Order manager\backend\OrderManager\OrderManager.API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Order manager\backend\OrderManager\OrderManager.API\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\Order manager\backend\OrderManager\OrderManager.API\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\Order manager\backend\OrderManager\OrderManager.API\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\Order manager\backend\OrderManager\OrderManager.API\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Order manager\backend\OrderManager\OrderManager.API\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\Order manager\backend\OrderManager\OrderManager.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Order manager\backend\OrderManager\OrderManager.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Order manager\backend\OrderManager\OrderManager.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Order manager\backend\OrderManager\OrderManager.API\bin\Debug\net7.0\System.CodeDom.dll
+D:\Order manager\backend\OrderManager\OrderManager.API\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\Order manager\backend\OrderManager\OrderManager.API\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\Order manager\backend\OrderManager\OrderManager.API\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Order manager\backend\OrderManager\OrderManager.API\bin\Debug\net7.0\System.Memory.Data.dll
+D:\Order manager\backend\OrderManager\OrderManager.API\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\Order manager\backend\OrderManager\OrderManager.API\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Order manager\backend\OrderManager\OrderManager.API\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\Order manager\backend\OrderManager\OrderManager.API\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\Order manager\backend\OrderManager\OrderManager.API\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Order manager\backend\OrderManager\OrderManager.API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Order manager\backend\OrderManager\OrderManager.API\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Order manager\backend\OrderManager\OrderManager.API\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Order manager\backend\OrderManager\OrderManager.API\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Order manager\backend\OrderManager\OrderManager.API\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Order manager\backend\OrderManager\OrderManager.API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Order manager\backend\OrderManager\OrderManager.API\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Order manager\backend\OrderManager\OrderManager.API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Order manager\backend\OrderManager\OrderManager.API\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Order manager\backend\OrderManager\OrderManager.API\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Order manager\backend\OrderManager\OrderManager.API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Order manager\backend\OrderManager\OrderManager.API\bin\Debug\net7.0\OrderManager.Application.dll
+D:\Order manager\backend\OrderManager\OrderManager.API\bin\Debug\net7.0\OrderManager.Domain.dll
+D:\Order manager\backend\OrderManager\OrderManager.API\bin\Debug\net7.0\OrderManager.Infrastructure.dll
+D:\Order manager\backend\OrderManager\OrderManager.API\bin\Debug\net7.0\OrderManager.Infrastructure.pdb
+D:\Order manager\backend\OrderManager\OrderManager.API\bin\Debug\net7.0\OrderManager.Application.pdb
+D:\Order manager\backend\OrderManager\OrderManager.API\bin\Debug\net7.0\OrderManager.Domain.pdb
+D:\Order manager\backend\OrderManager\OrderManager.API\obj\Debug\net7.0\OrderManager.API.csproj.AssemblyReference.cache
+D:\Order manager\backend\OrderManager\OrderManager.API\obj\Debug\net7.0\OrderManager.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Order manager\backend\OrderManager\OrderManager.API\obj\Debug\net7.0\OrderManager.API.AssemblyInfoInputs.cache
+D:\Order manager\backend\OrderManager\OrderManager.API\obj\Debug\net7.0\OrderManager.API.AssemblyInfo.cs
+D:\Order manager\backend\OrderManager\OrderManager.API\obj\Debug\net7.0\OrderManager.API.csproj.CoreCompileInputs.cache
+D:\Order manager\backend\OrderManager\OrderManager.API\obj\Debug\net7.0\OrderManager.API.MvcApplicationPartsAssemblyInfo.cs
+D:\Order manager\backend\OrderManager\OrderManager.API\obj\Debug\net7.0\OrderManager.API.MvcApplicationPartsAssemblyInfo.cache
+D:\Order manager\backend\OrderManager\OrderManager.API\obj\Debug\net7.0\staticwebassets\msbuild.OrderManager.API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Order manager\backend\OrderManager\OrderManager.API\obj\Debug\net7.0\staticwebassets\msbuild.build.OrderManager.API.props
+D:\Order manager\backend\OrderManager\OrderManager.API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.OrderManager.API.props
+D:\Order manager\backend\OrderManager\OrderManager.API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.OrderManager.API.props
+D:\Order manager\backend\OrderManager\OrderManager.API\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Order manager\backend\OrderManager\OrderManager.API\obj\Debug\net7.0\staticwebassets.build.json
+D:\Order manager\backend\OrderManager\OrderManager.API\obj\Debug\net7.0\staticwebassets.development.json
+D:\Order manager\backend\OrderManager\OrderManager.API\obj\Debug\net7.0\scopedcss\bundle\OrderManager.API.styles.css
+D:\Order manager\backend\OrderManager\OrderManager.API\obj\Debug\net7.0\OrderManager.API.csproj.CopyComplete
+D:\Order manager\backend\OrderManager\OrderManager.API\obj\Debug\net7.0\OrderManager.API.dll
+D:\Order manager\backend\OrderManager\OrderManager.API\obj\Debug\net7.0\refint\OrderManager.API.dll
+D:\Order manager\backend\OrderManager\OrderManager.API\obj\Debug\net7.0\OrderManager.API.pdb
+D:\Order manager\backend\OrderManager\OrderManager.API\obj\Debug\net7.0\OrderManager.API.genruntimeconfig.cache
+D:\Order manager\backend\OrderManager\OrderManager.API\obj\Debug\net7.0\ref\OrderManager.API.dll
+D:\Order manager\backend\backend\OrderManager.API\bin\Debug\net7.0\appsettings.Development.json
+D:\Order manager\backend\backend\OrderManager.API\bin\Debug\net7.0\appsettings.json
+D:\Order manager\backend\backend\OrderManager.API\bin\Debug\net7.0\OrderManager.API.exe
+D:\Order manager\backend\backend\OrderManager.API\bin\Debug\net7.0\OrderManager.API.deps.json
+D:\Order manager\backend\backend\OrderManager.API\bin\Debug\net7.0\OrderManager.API.runtimeconfig.json
+D:\Order manager\backend\backend\OrderManager.API\bin\Debug\net7.0\OrderManager.API.dll
+D:\Order manager\backend\backend\OrderManager.API\bin\Debug\net7.0\OrderManager.API.pdb
+D:\Order manager\backend\backend\OrderManager.API\bin\Debug\net7.0\AutoMapper.dll
+D:\Order manager\backend\backend\OrderManager.API\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Order manager\backend\backend\OrderManager.API\bin\Debug\net7.0\Azure.Core.dll
+D:\Order manager\backend\backend\OrderManager.API\bin\Debug\net7.0\Azure.Identity.dll
+D:\Order manager\backend\backend\OrderManager.API\bin\Debug\net7.0\Humanizer.dll
+D:\Order manager\backend\backend\OrderManager.API\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Order manager\backend\backend\OrderManager.API\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Order manager\backend\backend\OrderManager.API\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\Order manager\backend\backend\OrderManager.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\Order manager\backend\backend\OrderManager.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Order manager\backend\backend\OrderManager.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Order manager\backend\backend\OrderManager.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Order manager\backend\backend\OrderManager.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Order manager\backend\backend\OrderManager.API\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\Order manager\backend\backend\OrderManager.API\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\Order manager\backend\backend\OrderManager.API\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Order manager\backend\backend\OrderManager.API\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Order manager\backend\backend\OrderManager.API\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Order manager\backend\backend\OrderManager.API\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\Order manager\backend\backend\OrderManager.API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\Order manager\backend\backend\OrderManager.API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Order manager\backend\backend\OrderManager.API\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\Order manager\backend\backend\OrderManager.API\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\Order manager\backend\backend\OrderManager.API\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\Order manager\backend\backend\OrderManager.API\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Order manager\backend\backend\OrderManager.API\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\Order manager\backend\backend\OrderManager.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Order manager\backend\backend\OrderManager.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Order manager\backend\backend\OrderManager.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Order manager\backend\backend\OrderManager.API\bin\Debug\net7.0\System.CodeDom.dll
+D:\Order manager\backend\backend\OrderManager.API\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\Order manager\backend\backend\OrderManager.API\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\Order manager\backend\backend\OrderManager.API\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Order manager\backend\backend\OrderManager.API\bin\Debug\net7.0\System.Memory.Data.dll
+D:\Order manager\backend\backend\OrderManager.API\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\Order manager\backend\backend\OrderManager.API\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Order manager\backend\backend\OrderManager.API\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\Order manager\backend\backend\OrderManager.API\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\Order manager\backend\backend\OrderManager.API\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Order manager\backend\backend\OrderManager.API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Order manager\backend\backend\OrderManager.API\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Order manager\backend\backend\OrderManager.API\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Order manager\backend\backend\OrderManager.API\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Order manager\backend\backend\OrderManager.API\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Order manager\backend\backend\OrderManager.API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Order manager\backend\backend\OrderManager.API\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Order manager\backend\backend\OrderManager.API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Order manager\backend\backend\OrderManager.API\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Order manager\backend\backend\OrderManager.API\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Order manager\backend\backend\OrderManager.API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Order manager\backend\backend\OrderManager.API\bin\Debug\net7.0\OrderManager.Application.dll
+D:\Order manager\backend\backend\OrderManager.API\bin\Debug\net7.0\OrderManager.Domain.dll
+D:\Order manager\backend\backend\OrderManager.API\bin\Debug\net7.0\OrderManager.Infrastructure.dll
+D:\Order manager\backend\backend\OrderManager.API\bin\Debug\net7.0\OrderManager.Infrastructure.pdb
+D:\Order manager\backend\backend\OrderManager.API\bin\Debug\net7.0\OrderManager.Application.pdb
+D:\Order manager\backend\backend\OrderManager.API\bin\Debug\net7.0\OrderManager.Domain.pdb
+D:\Order manager\backend\backend\OrderManager.API\obj\Debug\net7.0\OrderManager.API.csproj.AssemblyReference.cache
+D:\Order manager\backend\backend\OrderManager.API\obj\Debug\net7.0\OrderManager.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Order manager\backend\backend\OrderManager.API\obj\Debug\net7.0\OrderManager.API.AssemblyInfoInputs.cache
+D:\Order manager\backend\backend\OrderManager.API\obj\Debug\net7.0\OrderManager.API.AssemblyInfo.cs
+D:\Order manager\backend\backend\OrderManager.API\obj\Debug\net7.0\OrderManager.API.csproj.CoreCompileInputs.cache
+D:\Order manager\backend\backend\OrderManager.API\obj\Debug\net7.0\OrderManager.API.MvcApplicationPartsAssemblyInfo.cs
+D:\Order manager\backend\backend\OrderManager.API\obj\Debug\net7.0\OrderManager.API.MvcApplicationPartsAssemblyInfo.cache
+D:\Order manager\backend\backend\OrderManager.API\obj\Debug\net7.0\staticwebassets\msbuild.OrderManager.API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Order manager\backend\backend\OrderManager.API\obj\Debug\net7.0\staticwebassets\msbuild.build.OrderManager.API.props
+D:\Order manager\backend\backend\OrderManager.API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.OrderManager.API.props
+D:\Order manager\backend\backend\OrderManager.API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.OrderManager.API.props
+D:\Order manager\backend\backend\OrderManager.API\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Order manager\backend\backend\OrderManager.API\obj\Debug\net7.0\staticwebassets.build.json
+D:\Order manager\backend\backend\OrderManager.API\obj\Debug\net7.0\staticwebassets.development.json
+D:\Order manager\backend\backend\OrderManager.API\obj\Debug\net7.0\scopedcss\bundle\OrderManager.API.styles.css
+D:\Order manager\backend\backend\OrderManager.API\obj\Debug\net7.0\OrderManager.API.csproj.CopyComplete
+D:\Order manager\backend\backend\OrderManager.API\obj\Debug\net7.0\OrderManager.API.dll
+D:\Order manager\backend\backend\OrderManager.API\obj\Debug\net7.0\refint\OrderManager.API.dll
+D:\Order manager\backend\backend\OrderManager.API\obj\Debug\net7.0\OrderManager.API.pdb
+D:\Order manager\backend\backend\OrderManager.API\obj\Debug\net7.0\OrderManager.API.genruntimeconfig.cache
+D:\Order manager\backend\backend\OrderManager.API\obj\Debug\net7.0\ref\OrderManager.API.dll

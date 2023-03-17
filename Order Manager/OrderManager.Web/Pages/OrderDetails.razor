@@ -1,0 +1,49 @@
+﻿@page "/details/{id:int}"
+@using OrderManager.Web.Models
+@inject IOrderService OrderService
+@inject NavigationManager NavigationManager
+@inject HttpClient Http
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Product name</th>
+            <th>Price</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach(var x in OrderService.Lines)
+        {
+            <tr>
+                <td>@x.Id</td>
+                <td>@x.Product</td>
+                <td>@x.Price</td>
+            </tr>
+        }
+    </tbody>
+</table>
+<br />
+
+<NavLink href="@($"edit/{id}")">
+    <button class="btn-success">Edit order</button>
+</NavLink>
+@code {
+    [Parameter]
+    public int id { get; set; }
+
+    protected override async Task OnInitializedAsync()
+    {
+        await OrderService.GetOrderLines(id);
+    }
+
+    private async void DeleteOrder()
+    {
+        await Http.DeleteFromJsonAsync<Order>($"api/Order/{id}");
+    }
+
+    private async void DeleteOrderLine(int ID)
+    {
+        await Http.DeleteFromJsonAsync<Order>($"api/Order/orderline/{ID}");
+    }
+}

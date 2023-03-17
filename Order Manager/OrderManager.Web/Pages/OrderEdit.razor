@@ -1,0 +1,177 @@
+﻿@page "/edit/{id:int}"
+@using OrderManager.Web.Models
+@inject HttpClient Http
+@inject IOrderService OrderService
+@inject IJSRuntime JsRuntime
+@inject NavigationManager navManager
+
+<EditForm Model="@order" OnValidSubmit="EditOrder">
+    <DataAnnotationsValidator />
+    <table class="table">
+        <thead>
+            <tr>
+                <td>Status</td>
+                <td>Client Name</td>
+                <td>City</td>
+                <td>Address</td>
+                <td>Additional info</td>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>
+                    <InputSelect @bind-Value="@order.Status" class="form-select" aria-label="Default select example">
+                        <option class="form-control" value="New">New</option>
+                        <option class="form-control" value="Delivery">Delivery</option>
+                        <option class="form-control" value="Confirm">Confirm</option>
+                        <option class="form-control" value="Cancel">Cancel</option>
+                    </InputSelect>
+                </td>
+                <td>
+                    <div class="input-group mb-3" style="height: 37px">
+                        <InputText @bind-Value="@order.ClientName" />
+                    </div>
+                </td>
+                <td>
+                    <div class="input-group mb-3" style="height: 37px">
+                        <InputText @bind-Value="@order.City" />
+                    </div>
+                </td>
+                <td>
+                    <div class="input-group mb-3" style="height: 37px">
+                        <InputText @bind-Value="@order.Address" />
+                    </div>
+                </td>
+                <td>
+                    <div class="input-group mb-3" style="height: 37px;">
+                        <InputText @bind-Value="@order.AdditionalInfo" />
+                    </div>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+    
+    <br />
+    <h2>Order lines </h2>
+   
+    <table class="table">
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Product name</th>
+                <th>Price</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var x in OrderService.Lines)
+            {
+                <tr>
+                    <td>
+                        <div>@x.Product</div>
+                    </td>
+                    <td>
+                        <div>@x.Price</div>
+                    </td>
+                    <td><button class="btn btn-danger" @onclick="()=> DeleteOrderLine(x.Id)">DELETE</button></td>
+                </tr>
+            }
+            <tr>
+                <td>
+                    <InputText @bind-Value="@ProductName" />
+                </td>
+                <td>
+                    <InputNumber @bind-Value="@PriceValue" />
+                </td>
+            </tr>
+            <input type="button" @onclick=AddOrderLine class="btn btn-primary" value="Add" />
+        </tbody>
+    </table>
+    <br />
+    <ValidationSummary/>
+    <button class="btn btn-danger" style="width:200px" @onclick="DeleteOrder">Delete order</button>
+    <NavLink href="order">
+        <button type="submit" class="btn btn-success" style="width:200px" @onclick="EditOrder">Edit</button>
+    </NavLink>
+</EditForm>
+
+@code {
+    [Parameter]
+    public int Id { get; set; }
+
+    private Order order { get; set; } = new Order();
+    private List<OrderLine> orderLines { get; set; } = new List<OrderLine>();
+    private List<OrderLine> newOrderLines { get; set; } = new List<OrderLine>();
+
+    private string Status = "";
+    public string ProductName = "";
+    public decimal PriceValue = 1;
+
+    protected override async Task OnInitializedAsync()
+    {
+        order = await OrderService.GetOrderById(Id);
+        orderLines = await OrderService.GetOrderLines(Id);
+        Status = order.Status;
+    }
+
+    public async void EditOrder()
+    {
+        if(Status != "New")
+        {
+            await JsRuntime.InvokeVoidAsync("alert", "Można edytować zamówienie tylko w statusie New");
+        }
+        else
+        {
+            await Http.PostAsJsonAsync($"api/Order/orderLines/{Id}", newOrderLines);
+            await Http.PutAsJsonAsync($"api/Order?id={Id}", order);
+            navManager.NavigateTo($"edit/{order.Id}", forceLoad: true);
+        }
+    }
+    private async void DeleteOrder()
+    {
+        if(Status != "New")
+        {
+            await JsRuntime.InvokeVoidAsync("alert", "Można usuwać zamówienia tylko w statusie New");
+        }
+        else
+        {
+            await Http.DeleteAsync($"api/Order/{Id}");
+            navManager.NavigateTo("order", forceLoad: true);
+        }
+    }
+
+    private async void DeleteOrderLine(int ID)
+    {
+        if (Status != "New")
+        {
+            await JsRuntime.InvokeVoidAsync("alert", "Można usuwać zamówienie tylko w statusie New");
+        }
+        else
+        {
+            await Http.DeleteAsync($"api/Order/orderline/{order.Id}/{ID}");
+            navManager.NavigateTo($"edit/{order.Id}", forceLoad: true);
+        }
+    }
+
+    public void AddOrderLine()
+    {
+        if (PriceValue == 0 || ProductName == " ")
+        {
+            JsRuntime.InvokeVoidAsync("alert", "Wpisz prawidłowo produkt");
+        }
+        else
+        {
+             orderLines.Add(new OrderLine()
+            {
+                Product = ProductName,
+                Price = PriceValue
+            });
+            newOrderLines.Add(new OrderLine()
+            {
+                Product = ProductName,
+                Price = PriceValue
+            });
+            ProductName = "";
+            PriceValue = 1;
+        }
+    }
+}

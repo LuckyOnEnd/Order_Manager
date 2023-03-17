@@ -1,0 +1,108 @@
+﻿@page "/create"
+@using OrderManager.Web.Models
+@inject HttpClient Http
+@inject IJSRuntime JsRuntime
+@inject NavigationManager navManager
+<EditForm Model="order" OnValidSubmit="CreateOrder">
+    <DataAnnotationsValidator />
+    <div class="main_block">
+        <div>
+            <p class="inla" for="login" style="font-size:17px">Client name</p>
+            <InputText @bind-Value="@order.ClientName" style="width:500px;height: 40px;border-radius: 5px;" />
+        <ValidationMessage For="@(() => order.ClientName)"/>
+        </div>
+        <div>
+            <p class="inla" for="login" style="font-size:17px">City</p>
+            <InputText @bind-Value="@order.City" style="width:500px;height: 40px;border-radius: 5px;" />
+        </div>
+        <div>
+            <p class="inla" for="login" style="font-size:17px">Address</p>
+            <InputText @bind-Value="@order.Address" style="width:500px;height: 40px;border-radius: 5px;" />
+        </div>
+        <div>
+            <p class="inla" for="login" style="font-size:17px">Additional info</p>
+            <InputText @bind-Value="@order.AdditionalInfo" style="width:500px;height: 40px;border-radius: 5px;" />
+        </div>
+    </div>
+        
+    <br />
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Product name</th>
+                <th>Price</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var x in orderLines)
+            {
+                <tr>
+                    <td>
+                        <div>@x.Product</div>
+                    </td>
+                    <td>
+                        <div>@x.Price</div>
+                    </td>
+                </tr>
+            }
+            <tr>
+                <td>
+                    <div>
+                    <InputText @bind-Value="@orderLine.Product" />
+                    <ValidationMessage For="@(() => orderLine.Product)"/>
+                    </div>
+                </td>
+                <td>
+                    <div>
+                    <InputNumber @bind-Value="@orderLine.Price" />
+                        <ValidationMessage For="@(() => orderLine.Price)" />
+                    </div>
+                </td>
+            </tr>
+            <input type="button" @onclick=AddOrderLine style="width:200px; margin-top:40px;" class="btn-primary" value="Add"/>
+        </tbody>
+    </table>
+    <button type="submit" class="btn btn-success" style="width:200px">Create</button>
+</EditForm>
+
+@code {
+    Order order = new Order();
+    OrderLine orderLine = new OrderLine();
+    List<OrderLine> orderLines = new List<OrderLine>();
+
+    public async Task CreateOrder()
+    {
+        order.CreateDate = DateTime.Now;
+        order.Status = "New";
+        if(orderLines.Count == 0)
+        {
+            await JsRuntime.InvokeVoidAsync("alert", "Musisz dodać przynajmniej 1 produkt");
+        }
+        else
+        {
+            order.OrderPrice = orderLines.Select(x => x.Price).Sum();
+            await Http.PostAsJsonAsync("api/Order", order);
+            await Http.PostAsJsonAsync($"api/Order/orderLines/{order.Id}", orderLines);
+            navManager.NavigateTo($"order", forceLoad: true);
+        }
+    }
+
+    public void AddOrderLine()
+    {
+        if (orderLine.Price == 0 || orderLine.Product == " ")
+        {
+            JsRuntime.InvokeVoidAsync("alert", "Wpisz prawidłowo produkt");
+        }
+        else
+        {
+            orderLines.Add(new OrderLine()
+            {
+                Product = orderLine.Product,
+                Price = orderLine.Price
+            });
+            orderLine.Product = "";
+            orderLine.Price = 1;
+        }
+    }
+
+}

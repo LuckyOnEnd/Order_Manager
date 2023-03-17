@@ -1,0 +1,42 @@
+D:\backend\OrderManager\OrderManager.Domain\bin\Debug\net7.0\OrderManager.Domain.deps.json
+D:\backend\OrderManager\OrderManager.Domain\bin\Debug\net7.0\OrderManager.Domain.dll
+D:\backend\OrderManager\OrderManager.Domain\bin\Debug\net7.0\OrderManager.Domain.pdb
+D:\backend\OrderManager\OrderManager.Domain\obj\Debug\net7.0\OrderManager.Domain.csproj.AssemblyReference.cache
+D:\backend\OrderManager\OrderManager.Domain\obj\Debug\net7.0\OrderManager.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\backend\OrderManager\OrderManager.Domain\obj\Debug\net7.0\OrderManager.Domain.AssemblyInfoInputs.cache
+D:\backend\OrderManager\OrderManager.Domain\obj\Debug\net7.0\OrderManager.Domain.AssemblyInfo.cs
+D:\backend\OrderManager\OrderManager.Domain\obj\Debug\net7.0\OrderManager.Domain.csproj.CoreCompileInputs.cache
+D:\backend\OrderManager\OrderManager.Domain\obj\Debug\net7.0\OrderManager.Domain.dll
+D:\backend\OrderManager\OrderManager.Domain\obj\Debug\net7.0\refint\OrderManager.Domain.dll
+D:\backend\OrderManager\OrderManager.Domain\obj\Debug\net7.0\OrderManager.Domain.pdb
+D:\backend\OrderManager\OrderManager.Domain\obj\Debug\net7.0\ref\OrderManager.Domain.dll
+D:\backend\OrderManager\OrderManager.Domain\bin\Debug\net7.0\OrderManager.Domain.runtimeconfig.json
+D:\backend\OrderManager\OrderManager.Domain\obj\Debug\net7.0\OrderManager.Domain.genruntimeconfig.cache
+D:\Order manager\backend\OrderManager\OrderManager.Domain\bin\Debug\net7.0\OrderManager.Domain.deps.json
+D:\Order manager\backend\OrderManager\OrderManager.Domain\bin\Debug\net7.0\OrderManager.Domain.runtimeconfig.json
+D:\Order manager\backend\OrderManager\OrderManager.Domain\bin\Debug\net7.0\OrderManager.Domain.dll
+D:\Order manager\backend\OrderManager\OrderManager.Domain\bin\Debug\net7.0\OrderManager.Domain.pdb
+D:\Order manager\backend\OrderManager\OrderManager.Domain\obj\Debug\net7.0\OrderManager.Domain.csproj.AssemblyReference.cache
+D:\Order manager\backend\OrderManager\OrderManager.Domain\obj\Debug\net7.0\OrderManager.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Order manager\backend\OrderManager\OrderManager.Domain\obj\Debug\net7.0\OrderManager.Domain.AssemblyInfoInputs.cache
+D:\Order manager\backend\OrderManager\OrderManager.Domain\obj\Debug\net7.0\OrderManager.Domain.AssemblyInfo.cs
+D:\Order manager\backend\OrderManager\OrderManager.Domain\obj\Debug\net7.0\OrderManager.Domain.csproj.CoreCompileInputs.cache
+D:\Order manager\backend\OrderManager\OrderManager.Domain\obj\Debug\net7.0\OrderManager.Domain.dll
+D:\Order manager\backend\OrderManager\OrderManager.Domain\obj\Debug\net7.0\refint\OrderManager.Domain.dll
+D:\Order manager\backend\OrderManager\OrderManager.Domain\obj\Debug\net7.0\OrderManager.Domain.pdb
+D:\Order manager\backend\OrderManager\OrderManager.Domain\obj\Debug\net7.0\OrderManager.Domain.genruntimeconfig.cache
+D:\Order manager\backend\OrderManager\OrderManager.Domain\obj\Debug\net7.0\ref\OrderManager.Domain.dll
+D:\Order manager\backend\backend\OrderManager.Domain\bin\Debug\net7.0\OrderManager.Domain.deps.json
+D:\Order manager\backend\backend\OrderManager.Domain\bin\Debug\net7.0\OrderManager.Domain.runtimeconfig.json
+D:\Order manager\backend\backend\OrderManager.Domain\bin\Debug\net7.0\OrderManager.Domain.dll
+D:\Order manager\backend\backend\OrderManager.Domain\bin\Debug\net7.0\OrderManager.Domain.pdb
+D:\Order manager\backend\backend\OrderManager.Domain\obj\Debug\net7.0\OrderManager.Domain.csproj.AssemblyReference.cache
+D:\Order manager\backend\backend\OrderManager.Domain\obj\Debug\net7.0\OrderManager.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Order manager\backend\backend\OrderManager.Domain\obj\Debug\net7.0\OrderManager.Domain.AssemblyInfoInputs.cache
+D:\Order manager\backend\backend\OrderManager.Domain\obj\Debug\net7.0\OrderManager.Domain.AssemblyInfo.cs
+D:\Order manager\backend\backend\OrderManager.Domain\obj\Debug\net7.0\OrderManager.Domain.csproj.CoreCompileInputs.cache
+D:\Order manager\backend\backend\OrderManager.Domain\obj\Debug\net7.0\OrderManager.Domain.dll
+D:\Order manager\backend\backend\OrderManager.Domain\obj\Debug\net7.0\refint\OrderManager.Domain.dll
+D:\Order manager\backend\backend\OrderManager.Domain\obj\Debug\net7.0\OrderManager.Domain.pdb
+D:\Order manager\backend\backend\OrderManager.Domain\obj\Debug\net7.0\OrderManager.Domain.genruntimeconfig.cache
+D:\Order manager\backend\backend\OrderManager.Domain\obj\Debug\net7.0\ref\OrderManager.Domain.dll
